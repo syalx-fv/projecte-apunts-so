@@ -1,0 +1,19 @@
+TEMA 1: INTRODUCCIO A LINUX 
+--------------------------------
+Data: [Data actual]
+Autor: [Sayuri]
+
+CONCEPTES CLAU:
+-Linux és un sistema operatiu de codi obert
+-Utlitza una estrucrura de directoris jeràrquia
+-Tot és un fitxer en Linux
+-Case sensitive: distingeix majúscules
+
+COMANDES BÀSIQUES:
+- ls: llistar fitxers
+- cd: canviar directori
+- pwd: mostrar directori actual
+- mkdir: crear directori
+- cp: copiar fitxers
+- mv: moure/renombrar fitxers 
+- rm: eliminar fitxers
